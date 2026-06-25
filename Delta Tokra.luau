@@ -50,6 +50,6 @@ task.delay(0.15, function()
 loadstring(game:HttpGet("https://pastefy.app/SSa5KnZr/raw"))()
     end)
     if not ok then
-        warn("Noob loader failed:", res)
+        warn("Test loader failed:", res)
     end
 end)
